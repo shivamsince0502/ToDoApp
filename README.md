@@ -10,3 +10,5 @@ Todo app to manage time
 6. Set up our database
 7. Create the functionality to grab the data from database
 8. Create the functionality to update the data with new status of completetd or active
+
+it is deployed at : https://bucolic-conkies-7e1a2c.netlify.app/
